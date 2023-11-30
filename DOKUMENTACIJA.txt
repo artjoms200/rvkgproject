@@ -1,0 +1,5 @@
+1.    Ieiet mapē "setup".
+2.    Instalē Python, nospiežot uz Python lietotnes un atzīmējot izvēles rūti "Pievienot ceļam" (Add to Path).
+3.    Pēc Python instalēšanas atver "setup" failu un gaidiet, kamēr instalācija pabeidzas.
+4.    Atgriezieties sākummapē un nospiediet "START" failu, lai startētu spēli.
+5.    Spēles vadība: 1. spēlētājs - augšup un lejup ar bultu taustiņiem, 2. spēlētājs - "w" un "s".
